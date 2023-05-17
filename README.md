@@ -41,8 +41,10 @@ Projeto organizado em diretórios
 . src
 --------------------------------------------------------------------------------------------------------------------------------
 <br>
-Exemplo do funcionamento:
-<br<
+
+## Exemplo do funcionamento:
+
+<br>
 
 ![simcapeonato gif](https://github.com/gabmajeau/Simulador-de-Campeonato/assets/127263958/a34739c9-a232-451e-b8dd-40593878906f)
 
