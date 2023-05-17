@@ -1,6 +1,6 @@
 # Integrantes:
 
-Mateus monteiro barbosa
+Mateus Monteiro Barbosa
 
 Gabriel Alderige de carvalho melo
 
