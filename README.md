@@ -19,7 +19,7 @@ depois times do mesmo, depois é só colocar o numero que representa o time venc
 o time selecionado sera promovido para a próxima etapa até perca, ou chegue as finais!
 
 --------------------------------------------------------------------------------------------------------------------------------
-
+\n
 IMAGEM DA ESTRUTURA DO PROJETO:
 
 
