@@ -1,10 +1,11 @@
 # Simulador-de-Campeonato
-
-
+--------------------------------------------------------------------------------------------------------------------------------
 
 
 ![simcapeonato gif](https://github.com/gabmajeau/Simulador-de-Campeonato/assets/127263958/a34739c9-a232-451e-b8dd-40593878906f)
 
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 Um simulador de campeonato de até 8 times em C usando funções, estruturas de dados, alocação dinâmica, busca, ordenação e lista. 
 
