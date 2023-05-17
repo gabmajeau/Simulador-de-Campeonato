@@ -1,3 +1,9 @@
+Integrantes:
+
+Mateus monteiro barbosa
+Gabriel Alderige de carvalho melo
+Gabriel Felipe Majeau Lopes
+--------------------------------------------------------------------------------------------------------------------------------
 # Simulador-de-Campeonato
 --------------------------------------------------------------------------------------------------------------------------------
 Um simulador de campeonato de até 8 times em C usando funções, estruturas de dados, alocação dinâmica, busca, ordenação e lista.
