@@ -42,7 +42,7 @@ Projeto organizado em diretórios
 --------------------------------------------------------------------------------------------------------------------------------
 
 
-## Exemplo do funcionamento:
+# Exemplo do funcionamento:
 
 <br>
 
