@@ -1,4 +1,4 @@
-# Integrantes:
+**Autores:**
 
 Mateus Monteiro Barbosa
 
@@ -9,8 +9,36 @@ Gabriel Felipe Majeau Lopes
 --------------------------------------------------------------------------------------------------------------------------------
 # Simulador-de-Campeonato
 --------------------------------------------------------------------------------------------------------------------------------
-Um simulador de campeonato de até 8 times em C usando funções, estruturas de dados, alocação dinâmica, busca, ordenação e lista.
+Esse é um programa simples de simulação de campeonatos,
+com um sistema de organização automática dos confrontos de
+maneira adequada/igualtitária, a aplicação suporta as quantias
+bases de um campeonato (**2**,**3**,*4*,**5**,*6*,**7**,*8*).
 
+<br>
+
+| Numero-Base | Descrição |
+|:------------|:---------:|
+|2|Chaveamento Classico, pois é potência de dois|
+|3|Confronto Triplo, pois é número primo|
+|5|Confronto Quintuplo, pois é número primo|
+|7|Confronto Sétuplo, pois é número primo|
+
+Com esses quatro números primos, é possível organizar um
+campeonato com quaisquer quantidade de times, exceto os outros
+números primos.
+
+<br>
+
+Desenvolvido durante o curso de Ciência da Computação,
+escrita em linguagem C.
+
+## Estrutura
+
+Projeto organizado em diretórios
+
+. include
+. lib
+. src
 --------------------------------------------------------------------------------------------------------------------------------
 
 
