@@ -2,7 +2,7 @@
 
 Mateus Monteiro Barbosa
 
-Gabriel Alderige de carvalho melo
+Gabriel Alderige de Carvalho Melo
 
 Gabriel Felipe Majeau Lopes
 
