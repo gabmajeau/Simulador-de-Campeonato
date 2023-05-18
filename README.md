@@ -7,7 +7,7 @@ Gabriel Alderige de Carvalho Melo
 Gabriel Felipe Majeau Lopes
 
 --------------------------------------------------------------------------------------------------------------------------------
-# Simulador-de-Campeonato
++# Simulador-de-Campeonato
 --------------------------------------------------------------------------------------------------------------------------------
 Esse é um programa simples de simulação de campeonatos,
 com um sistema de organização automática dos confrontos de
