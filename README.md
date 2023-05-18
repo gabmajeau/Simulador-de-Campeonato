@@ -1,13 +1,20 @@
-## **Autores:**
+<br>
 
-Mateus Monteiro Barbosa
+> **Autores:**
 
-Gabriel Alderige de Carvalho Melo
-
-Gabriel Felipe Majeau Lopes
+<sub>
+  
+ > Mateus Monteiro Barbosa 
+  
+ > Gabriel Alderige de Carvalho Melo  
+  
+ > Gabriel Felipe Majeau Lopes  
+  
+</sub>
+<br>
 
 --------------------------------------------------------------------------------------------------------------------------------
-# Simulador-de-Campeonato
+ # Simulador de Campeonato
 --------------------------------------------------------------------------------------------------------------------------------
 Esse é um programa simples de simulação de campeonatos,
 com um sistema de organização automática dos confrontos de
@@ -23,6 +30,8 @@ bases de um campeonato ( **2**, **3**, **4**, **5**, **6**, **7**, **8** ).
 |5|Confronto Quintuplo, pois é número primo|
 |7|Confronto Sétuplo, pois é número primo|
 
+<br> 
+
 Com esses quatro números primos, é possível organizar um
 campeonato com quaisquer quantidade de times, exceto os outros
 números primos.
@@ -30,7 +39,7 @@ números primos.
 <br>
 
 Desenvolvido durante o curso de Ciência da Computação,
-escrita em linguagem C.
+escrita em linguagem C para o projeto final.
 
 + ## Estrutura:
 
@@ -61,7 +70,7 @@ depois times do mesmo, depois é só colocar o numero que representa o time venc
 o time selecionado sera promovido para a próxima etapa até perca, ou chegue as finais!
 
 
-+ ## IMAGEM DA ESTRUTURA DO PROJETO:
++ ## Imagem da estrutura do projeto:
 
 
 
