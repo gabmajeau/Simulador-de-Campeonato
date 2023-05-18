@@ -45,9 +45,11 @@ escrita em linguagem C para o projeto final.
 
 Projeto organizado em diretórios
 
-. include
-. lib
-. src
+` . include `
+
+` . lib `
+
+` . src `
 
 
 
