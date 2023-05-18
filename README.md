@@ -23,7 +23,7 @@ bases de um campeonato ( **2**, **3**, **4**, **5**, **6**, **7**, **8** ).
 
 <br>
 
-| Numero-Base | Descrição |
+| Numero base | Descrição |
 |:------------|:---------:|
 |2|Chaveamento Classico, pois é potência de dois|
 |3|Confronto Triplo, pois é número primo|
