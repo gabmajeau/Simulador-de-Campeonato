@@ -12,7 +12,7 @@ Gabriel Felipe Majeau Lopes
 Esse é um programa simples de simulação de campeonatos,
 com um sistema de organização automática dos confrontos de
 maneira adequada/igualtitária, a aplicação suporta as quantias
-bases de um campeonato  ( **2**, **3**, **4**, **5**, **6**, **7**, **8** ) .
+bases de um campeonato @@ ( **2**, **3**, **4**, **5**, **6**, **7**, **8** ) @@ .
 
 <br>
 
