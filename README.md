@@ -82,3 +82,8 @@ o time selecionado sera promovido para a próxima etapa até perca, ou chegue as
 ` Link do Drive para o PITCH do projeto: `
 
 https://drive.google.com/drive/u/1/folders/1GuzyWEdJgcC3ilPRQ1Qc7s_iuzo7MJsB
+
+Link para o drive do video de apresentação final:
+https://drive.google.com/drive/u/0/folders/1W4qF09JLmTI4xPNRbYpwvwemCyYhiodW
+
+
